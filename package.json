@@ -6,7 +6,7 @@
     "8base-react-sdk": "^1.7.2",
     "8base-sdk": "^1.6.2",
     "@8base/app-provider": "^0.37.2",
-    "8base-file-manager": "file:./packages/8base-file-manager",
+    "@8base/file-manager": "file:./packages/8base-file-manager",
     "@8base/boost": "^1.12.1",
     "@8base/error-codes": "^1.0.23",
     "@apollo/client": "^3.3.7",
